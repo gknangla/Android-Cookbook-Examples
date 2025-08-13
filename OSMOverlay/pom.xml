@@ -33,7 +33,7 @@
 		<dependency>
 			<groupId>org.osmdroid</groupId>
 			<artifactId>osmdroid-android</artifactId>
-			<version>3.0.7</version>
+			<version>3.0.10</version>
 		</dependency>
 		<!-- Seems to be a hidden dependency of OSM -->
 		<dependency>
